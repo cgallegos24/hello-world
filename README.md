@@ -1,5 +1,6 @@
 # hello-world
-Hello world repos
+## Description
 
-Hello.
-A bit about myself.
+This is a demonstration for Software Engineering at Wayland Baptist University.
+
+
